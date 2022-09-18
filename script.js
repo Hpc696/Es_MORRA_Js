@@ -22,7 +22,7 @@ for (i=0; i<tent; i++){
         winpc++;
       }
     }
-    
+    //da linkare a html on getelement bla bla bla...
     console.log(winpc);
     console.log(winuser);
     
